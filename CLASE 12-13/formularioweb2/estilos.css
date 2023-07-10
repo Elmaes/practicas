@@ -6,14 +6,20 @@
 }
 
 .imgProducto {
-    height: 50px;
+    height: 200px;
+    width: 200px;
+    padding: -100px;
+    margin: -100;
 }
 .producto {
+    width: 250px;
+    height: 250px;
     text-align: center;
-    background-color: rgb(173, 217, 104);
+    background-color: rgb(203, 60, 181);
     margin: 10px;
     border-color: black;
     border-radius: 10px;
+    padding: 15px;
 
 }
 
@@ -31,4 +37,14 @@
 .claseboton1:hover{
     background-color: rgba(27, 121, 44, 0.733);
 
+}
+.clasecomentario{
+    background-color: rgba(104, 209, 85, 0.558);
+    border-radius: 7px;
+    width: 1170px;
+}
+.listarDatos{
+    background-color: rgba(66, 65, 161, 0.558);
+    border-radius: 7px;
+    width: 1000px;
 }
