@@ -1,0 +1,34 @@
+.ocultar {
+    display: none;
+}
+.mostrar {
+    display: block;
+}
+
+.imgProducto {
+    height: 50px;
+}
+.producto {
+    text-align: center;
+    background-color: rgb(173, 217, 104);
+    margin: 10px;
+    border-color: black;
+    border-radius: 10px;
+
+}
+
+.resultado {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+}
+.claseboton1{
+    width: 150px;
+    height: 28px;
+    background-color: aqua;
+    border-radius: 7px;
+}
+.claseboton1:hover{
+    background-color: rgba(27, 121, 44, 0.733);
+
+}
