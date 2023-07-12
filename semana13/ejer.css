@@ -1,0 +1,31 @@
+.nuevo{
+width: 200px;
+height: 200px;
+border: 1px solid rgb(210, 138, 5);
+margin: 50px auto;
+padding: 30px;
+background-color: rgb(255, 255, 255);
+border-radius: 20px;
+text-align: center;
+background-color: aliceblue;
+box-shadow:0px 15px 20px rgb(235, 167, 42) inset;
+box-shadow: 10px 10px rgb(41, 41, 205);
+}
+
+.nuevo2{
+    padding: 0px auto;
+    margin: 0px auto;
+}   
+.nuevo3{
+    text-shadow: 2px 2px 5px #f00,
+4px 4px 5px #0f0,
+6px 6px 5px #00f;
+font-family: 'Roboto', sans-serif;
+
+
+
+}
+.nuevo4{
+    text-align: justify
+
+}

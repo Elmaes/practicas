@@ -1,0 +1,83 @@
+* {
+    background-color: rgb(118, 118, 118);
+}
+
+.clase1 {
+    background-color: rgb(64, 64, 219);
+    width: 800px;
+    height: 40px;
+    border-radius: 10px;
+    margin: 0px auto;
+
+  
+}
+.clase2{
+    text-align: center;
+    color: orange;
+    text-shadow: 4px 4px 4px rgb(64, 64, 219);
+}
+.clase3{
+background-color: rgb(64, 64, 219);
+color: white;
+padding: 10px;
+letter-spacing: 3px;  
+border-radius: 10px;
+text-align: center;
+}
+.clase4{
+    
+    
+    background-color: rgb(64, 64, 219);
+    width: 800px;
+    height: 40px;
+    border-radius: 10px;
+    margin: 0px auto;
+    text-align: center;
+}
+.clase5{
+    background-color: rgb(64, 64, 219);
+    width: 800px;
+    height: 200px;
+    border-radius: 10px;
+    margin: 0px auto;
+
+}
+.clase6{
+    background-color: rgb(64, 64, 219);
+    width: 550px;
+    height: 200px;
+    border-radius: 10px;
+    border: 2px solid white;
+}
+.clase7{
+    background-color: rgb(64, 64, 219);
+    width: 249px;
+    height: 200px;
+    border-radius: 10px;
+    margin-left: 556px;
+    margin-top: -203px;
+    border: 2px solid white;
+}
+.clase8{
+    background-color: rgb(6, 6, 139);
+    width: 540px;
+    height: 140px;
+    border-radius: 10px;
+    margin-left: 5px;
+    margin-top: -15px ;
+}
+.clase9{
+    background-color: rgb(64, 64, 219);
+    width: 800px;
+    height: 40px;
+    border-radius: 10px;
+    margin: 0px auto;
+}
+.clase10{
+    background-color: rgb(6, 6, 139);
+    color: white;
+    padding: 10px;
+    letter-spacing: 3px;  
+    border-radius: 10px;
+    text-align: center;   
+}

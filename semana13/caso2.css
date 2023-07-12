@@ -1,0 +1,18 @@
+@font-face {
+    font-family: 'Inder';
+    src: url ('../fuente/Inder-Regular.ttf');
+}
+
+.caja {
+    position: top;
+    background-color: rgb(120, 253, 80);
+    width: 800px;
+    height: 200px;
+    margin: 50px auto;
+    text-align: center;
+}
+
+#titulo {
+    font-family: 'Inder';
+    text-align: 5px 5px 6px #fefefe;
+}
