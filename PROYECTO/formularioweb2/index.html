@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="estilos.css" class="re">
+    <title>PAGINA DE RENSSO ESPINOZA</title>
+
+</head>
+
+<body>
+<H1 class="clase80" >MI PAGINA WEB</H1>
+    <form action="" class="mostrar" id="formulario">
+        <input class="clase88" type="email" id="txtEmail" placeholder="Ingresa tu email">
+        <br><br>
+        <input  class="clase88" type="password" id="txtPassword" placeholder="Ingresa tu password">
+        <br><br>
+        <input class="claseboton1" type="button" value="Registrar" id="btnRegistrar">
+        <br><br>
+        <input class="claseboton1" type="button" value="Ingresar" id="btnIngresar">
+        <br><br>
+        <img src="img/desarrollo_si_6.jpg" alt="" height="500px" id="btnGoogle">
+    </form>
+
+    
+    <div class="contenidoDeLaWeb ocultar" id="contenidoDeLaWeb">
+        <input type="button" value="Cerrar sesión" id="btnCerrarSesion">
+        <h3>Aquí verás el contenido de la web</h3>
+        <div class="resultado" id="resultado">  
+        </div>
+
+        <div class="clasecomentario" id="comentarios">
+            <input type="text" placeholder="Ingresa titulo del post" id="txtTitulo">
+            <input type="text" placeholder="Ingresa tu mensaje" id="txtDescripcion">
+            <input class="claseboton1" type="button" value="Publicar" id="btnPublicar">
+            <ul class="verDatosEnPantalla" id="verDatosEnPantallaTexto">   </ul>
+            
+
+        </div>
+        <img src="img/PORTADA_02-min.png" alt="" height="370px" id="btnGoogle">
+
+    </div>
+
+   
+
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-app.js"> </script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-auth.js"> </script>
+    <script src="https://www.gstatic.com/firebasejs/8.6.8/firebase-firestore.js">  </script> 
+    <script src="main.js">  </script>
+</body>
+
+</html>
