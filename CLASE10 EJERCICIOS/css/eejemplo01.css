@@ -1,0 +1,85 @@
+*{
+    margin:0px;
+}
+.caja1{
+border: 2px dashed orange;
+margin: 5px; 
+}
+.caja2{
+    border: 2px solid rgb(2, 15, 115);
+width: 500px;
+margin-top: 20px ;
+margin-left: 30px ;
+}
+.caja3{
+    border: 2px solid rgb(233, 217, 32);
+width: 50%;
+margin: 20px auto;
+padding: 5px;
+}
+.caja4{
+    border: 2px solid rgb(47, 175, 12);
+width: 50%;
+margin: 20px auto;
+padding-top: 10px;
+padding-bottom:8px;
+padding-left:15px;
+padding-right:12px;
+/*padding:10px 12px 15px 8px;*/
+background-color: blueviolet;
+border-radius: 20px;
+box-shadow: 10px -5px black ;
+}
+.caja5{
+    border: 2px solid rgb(47, 175, 12);
+    width: 50%;
+    margin: 10px auto;
+    color: rgb(255, 255, 255);
+    background-color: blueviolet;
+    border-top-left-radius: 10px;
+    border-bottom-right-radius: 30px;
+    /*border-radius:10px 12px 15px 8px;*/
+    box-shadow: 10px 5px 10px black inset;
+}
+.caja6{
+   
+    border-radius:20px;
+    background-color: rgb(215, 211, 218);
+    width: 200px;
+    padding:10px;
+    margin:50px;
+}
+.propuesto1{
+   
+   border: 2PX SOLID rgb(5, 5, 149);
+   border-radius: 15px;
+   margin: 20px;
+   padding:10px;
+
+}
+.btnsuscribirse{
+   
+    text-decoration-line: none;
+    background-color: rgb(3, 65, 10);
+    margin:5px;
+    border-radius: 10px;
+    padding: 5px;
+    font-size: 10px;
+    color: white;
+
+}
+.propuesto1{
+   
+   border: 2PX SOLID rgb(5, 5, 149);
+   border-radius: 15px;
+   margin: 20px;
+   padding:10px;
+}
+.propuesto2{
+   
+    border: 2PX SOLID rgb(5, 5, 149);
+    border-radius: 15px;
+    margin: 20px;
+    padding:10px;
+ 
+ }
