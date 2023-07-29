@@ -1,0 +1,21 @@
+.mostrar{
+    background-color: rgb(252, 255, 53);
+    margin-top: -17px;
+    text-align: left;
+            
+}
+div h1 {
+    background-color: rgb(177, 0, 247);
+    text-align: center;
+}
+.plus{
+    
+    width: 8%;
+    color: white;
+    background-color: rgb(240, 181, 181);
+    margin-top: 0;
+}
+img{
+    width: 180px;
+    height: 135px;
+}
